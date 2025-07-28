@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28 16:50:08",
+    "documents_processed": 126,
+    "documents_failed": 0
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 16,
+      "section_title": "\u2022 Serve immediately.",
+      "importance_rank": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 12,
+      "section_title": "\u2022 In the same skillet, cook ground lamb or beef, diced onion, and minced garlic until",
+      "importance_rank": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 5,
+      "section_title": "\u2022 Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings",
+      "importance_rank": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 3,
+      "section_title": "\u2022 Place chicken in a baking dish, top with marinara sauce and shredded mozzarella cheese.",
+      "importance_rank": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 14,
+      "section_title": "\u2022 1/4 cup spinach, chopped",
+      "importance_rank": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 14,
+      "section_title": "\u2022 1 pound ground beef",
+      "importance_rank": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 6,
+      "section_title": "\u2022 Cook gnocchi according to package instructions, then drain.",
+      "importance_rank": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 2,
+      "section_title": "\u2022 1/4 cup bacon, chopped",
+      "importance_rank": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 9,
+      "section_title": "\u2022 1 bell pepper, diced",
+      "importance_rank": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 15,
+      "section_title": "\u2022 Add shrimp, mussels, and cooked chicken, simmer for an additional 10 minutes until",
+      "importance_rank": 10
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 16,
+      "refined_text": "\u2022 Serve immediately...",
+      "relevance_score": 0.44740307331085205
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 12,
+      "refined_text": "\u2022 In the same skillet, cook ground lamb or beef, diced onion, and minced garlic until \nbrowned. \u2022 Stir in diced tomatoes, red wine, c innamon, oregano, salt, and pepper. \u2022 Simmer for 20 minutes. \u2022 In a baking dish, layer eggplant slices and meat sauce...",
+      "relevance_score": 0.41797566413879395
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 5,
+      "refined_text": "\u2022 Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings  \nInstructions:  \n\u2022 In a skillet, cook ground beef over medium heat until browned. \u2022 Add diced onion and minced garlic, saut\u00e9 until softened. \u2022 Stir in taco seasoning and water, simmer until thickened...",
+      "relevance_score": 0.4038797616958618
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 3,
+      "refined_text": "\u2022 Place chicken in a baking dish, top with marinara sauce and shredded mozzarella cheese. \u2022 Bake for 20 -25 minutes until cheese is melted and bubbly. \u2022 Serve warm...",
+      "relevance_score": 0.4035727381706238
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 14,
+      "refined_text": "\u2022 1/4 cup spinach, chopped \n\u2022 1/4 cup shredded carrots  \n\u2022 1 tablespoon tahini  \n\u2022 1 tablespoon lemon juice  \n\u2022 Salt and pepper to taste  \nInstructions:  \n\u2022 In a bowl, combine the mashed chickpeas, spinach, carrots, tahini, and lemon juice. \u2022 Season with salt and pepper...",
+      "relevance_score": 0.4015878438949585
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 14,
+      "refined_text": "\u2022 1 pound ground beef  \n\u2022 1/2 pound ground pork  \n\u2022 1 small onion, diced  \n\u2022 2 cloves garlic, minced  \n\u2022 1/2 cup breadcrumbs  \n\u2022 1/4 cup milk  \n\u2022 1 egg, beaten  \n\u2022 1/4 cup ketchup  \n\u2022 1 tablespoon Worcestershire sauce  \n\u2022 1 teaspoon salt  \n\u2022 1/2 teaspoon pepper  \nInstructions:  \n\u2022 Preheat oven to 350\u00b0F (175\u00b0C)...",
+      "relevance_score": 0.4015587568283081
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 6,
+      "refined_text": "\u2022 Cook gnocchi according to package instructions, then drain. \u2022 In a large skillet, melt butter over medium heat. \u2022 Add minced garlic and sage leaves, saut\u00e9 until fragrant and sage is crispy. \u2022 Add cooked gnoc chi to the skillet and toss to coat in the butter sauce...",
+      "relevance_score": 0.3958229422569275
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 2,
+      "refined_text": "\u2022 1/4 cup bacon, chopped  \n\u2022 1/4 cup green onions, sliced  \n\u2022 Salt and pepper to taste  \nInstructions:  \n\u2022 In a pot, bring water to a boil and stir in grits. \u2022 Reduce heat and simmer until thickened, then stir in shredded cheddar cheese and \nbutter...",
+      "relevance_score": 0.3915857672691345
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 9,
+      "refined_text": "\u2022 1 bell pepper, diced  \n\u2022 1 cup spinach, chopped  \n\u2022 1 jar (24 ounces) marinara sauce  \n\u2022 1 can (15 ounces) ricotta cheese  \n\u2022 1 egg  \n\u2022 1 cup shredded mozzarella cheese  \n\u2022 1/4 cup grated Parmesan cheese  \n\u2022 2 tablespoons olive oil  \n\u2022 Salt and pepper to taste  \nInstructions:  \n\u2022 Preheat oven to 375\u00b0F (190\u00b0C)...",
+      "relevance_score": 0.386572003364563
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 15,
+      "refined_text": "\u2022 Add shrimp, mussels, and cooked chicken, simmer for an additional 10 minutes until \nseafood is cooked and rice is tender. \u2022 Garnish with lemon wedges and serve...",
+      "relevance_score": 0.3864648938179016
+    }
+  ]
+}

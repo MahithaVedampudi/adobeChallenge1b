@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-28 16:49:57",
+    "documents_processed": 248,
+    "documents_failed": 0
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "Types of PDF forms",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 1,
+      "section_title": "Fill and Sign PDF Forms",
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "section_title": "Fill in PDF Forms",
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "Change flat forms to fillable (Acrobat  Pro)",
+      "importance_rank": 4
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 14,
+      "section_title": "9. Prepare the Agreement  and Add Fields:",
+      "importance_rank": 5
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 13,
+      "section_title": "8. Click  Next  in the upper right corner of the window.",
+      "importance_rank": 6
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 5,
+      "section_title": "\u2022 Simplified  mode  for multiple  signers",
+      "importance_rank": 7
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 10,
+      "section_title": "Once a file is selected, the configuration page loads.",
+      "importance_rank": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 19,
+      "section_title": "\u2022 Download  Form  Field  Data  - Downloads a CSV file of the field -level content for all",
+      "importance_rank": 9
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 14,
+      "section_title": "Print forms",
+      "importance_rank": 10
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "refined_text": "Types of PDF forms  \n\u2022 Interactive  forms : These  contain fields that you can select and fill in. \u2022 Flat forms : These do not have  interactive  fields. It could be a paper form  or PDF that \nhasn\u2019t  been optimized  for form  filling...",
+      "relevance_score": 0.4290599226951599
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 1,
+      "refined_text": "Fill and Sign PDF Forms  \nYou can easily fill, sign, and share your documents using Acrobat's  Fill & Sign  tool. Types \nof PDF forms...",
+      "relevance_score": 0.41344863176345825
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "refined_text": "Fill in PDF Forms  \n \nIs the form fillable?  \nNot all forms are fillable. Sometimes form creators don\u2019t convert their PDFs to \ninteractive fillable  forms. Or,  they intentionally design a form that you can fill in only by hand \nor with the Fill & Sign  tool...",
+      "relevance_score": 0.41312655806541443
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "refined_text": "Change flat forms to fillable (Acrobat  Pro)  \nYou can change a flat form to a fillable form by either using the  Prepare  Form  tool or \nenabling the  Fill & Sign  tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool \nto fill in flat forms...",
+      "relevance_score": 0.4116421341896057
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 14,
+      "refined_text": "9. Prepare the Agreement  and Add Fields:  \nYou can now add any necessary fields to the agreement. Remember that \na Signature  field must be placed for each signer (including internal counter -singers). There are two methods to apply fields:  \n1...",
+      "relevance_score": 0.3994064927101135
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 13,
+      "refined_text": "8. Click  Next  in the upper right corner of the window. The document is now ready to add any fields that you want the signers to fill in or sign. Note:    If you have added multiple files, the files are converted into PDFs and combined into a \nsingle document...",
+      "relevance_score": 0.3737328052520752
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 5,
+      "refined_text": "\u2022 Simplified  mode  for multiple  signers  \nThis mode provides simplified authoring with the capability of assigning fields to \nmultiple signers. When you select a signer from the right pa ne and add fields in the \nform, the fields are assigned to the signer...",
+      "relevance_score": 0.36030644178390503
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 10,
+      "refined_text": "Once a file is selected, the configuration page loads. 3. Add participants : \n1. List the participants required. \u2022 The Sign  action is assigned by default. \u2022 The Sign  action allows the participant to enter field data and sign the \nagreement. \u2022 Up to 50 participants are supported...",
+      "relevance_score": 0.338149756193161
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 19,
+      "refined_text": "\u2022 Download  Form  Field  Data  - Downloads a CSV file of the field -level content for all \nchild agreements spawned from this parent Bulk Send that have been completed...",
+      "relevance_score": 0.3373536765575409
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 14,
+      "refined_text": "Print forms  \n1. Select  Print this file   from the upper right. 2. Choose an appropriate printer in the  Print  dialog box. 3...",
+      "relevance_score": 0.3333621025085449
+    }
+  ]
+}
